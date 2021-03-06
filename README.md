@@ -40,4 +40,4 @@ $ jupyter-notebook .
 
 The authors of this repository are Filipe Pires and João Alegria, and the project was developed for the Data Mining Course of the Master's degree in Informatics Engineering of the University of Aveiro.
 
-For further information, please read our [report](https://github.com/FilipePires98/EDRaven/blob/master/report/recpad_review.pdf) or contact us at filipesnetopires@ua.pt or joao.p@ua.pt.
+For further information, please read our [report](https://github.com/FilipePires98/RavenTests-DataMining/blob/master/report/recpad_review.pdf) or contact us at filipesnetopires@ua.pt or joao.p@ua.pt.
