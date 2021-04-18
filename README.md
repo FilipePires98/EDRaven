@@ -1,5 +1,10 @@
 # The Raven Test - In Search for Group Differences
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Made%20With-Python-blue)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description 
 
 The search for trustworthy methodologies of determining a measurable intelligence index has been a quest of our brightest minds for decades.
